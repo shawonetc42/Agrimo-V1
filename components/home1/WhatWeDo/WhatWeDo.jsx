@@ -54,8 +54,8 @@ const WhatWeDo = () => {
                   <p className="text-sm md:text-base agrimo text-[#666666] mt-5">
                     There are many variations of passages of Lorem Ipsum
                     available, but the majority have suffered alteration in some
-                    form, by injected humour, or randomised words which don't
-                    look even.
+                    form, by injected humour, or randomised words which
+                    don&apos;t look even.
                   </p>
                 </div>
                 <div className="flex flex-col md:flex-row gap-0 md:gap-5  md:mt-10">

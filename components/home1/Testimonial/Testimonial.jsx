@@ -137,8 +137,9 @@ const Testimonial = () => {
                   </div>
                 </div>
                 <p className="text-base text-[#999999] leading-6 pt-5">
-                  "{slide.text}"
+                  &quot;{slide.text}&quot;
                 </p>
+
                 <div className="border-t border-[#ecedec] my-4"></div>
                 <div className="flex items-center mt-4">
                   <Image

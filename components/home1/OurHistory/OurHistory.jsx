@@ -102,7 +102,7 @@ const OurHistory = () => {
             <p className="text-base agrimo md:w-[45%] text-justify">
               There are many variations of passages of Lorem Ipsum available,
               but the majority have suffered alteration in some form, by
-              injected humour, or randomised words which don't look even.
+              injected humour, or randomised words which don&apos;t look even.
             </p>
           </div>
         </header>

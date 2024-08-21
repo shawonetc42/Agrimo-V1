@@ -33,8 +33,9 @@ const Naturally = () => {
               <p className="text-base agrimo">Grow Naturally</p>
             </button>
             <h2 className="text-3xl md:text-4xl text-[#404a3e] font-extrabold agrimo">
-              Choose What's Perfect
+              Choose What&apos;s Perfect
             </h2>
+
             <h2 className="text-3xl md:text-4xl text-[#404a3e] font-extrabold agrimo">
               For Your Field
             </h2>
